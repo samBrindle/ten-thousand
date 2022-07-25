@@ -1,7 +1,6 @@
 import pytest
 from ten_thousand.game_logic import GameLogic
 
-
 @pytest.mark.parametrize(
     "test_input,expected",
     [
