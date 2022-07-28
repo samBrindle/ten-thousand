@@ -2,6 +2,7 @@
 ## Project: ten-thousand
 ## Author: Sam Brindle
 ## Links and Resources
+* Dana Huffman was my knight in shining armour for this lab!
 ## Setup
 * .env file
 * .gitignore file
